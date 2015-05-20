@@ -2,7 +2,9 @@
 
 Uses Selenium WebDriver and headless PhantomJS or Chromium
 
-Crawls links and Scrapes using CSS and XPATH selectors
+Does login using USER and PASS
+
+Crawls links and scrapes using CSS and XPATH selectors
 
 Outputs to a CSV file
 
