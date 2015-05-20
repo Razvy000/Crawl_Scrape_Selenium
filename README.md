@@ -8,4 +8,4 @@ Crawls links and scrapes using CSS and XPATH selectors
 
 Outputs to a CSV file
 
-Just [200](Crawl%20Scrape%20Selenium/Program.cs) lines
+Just [200 lines of code](Crawl%20Scrape%20Selenium/Program.cs) 
